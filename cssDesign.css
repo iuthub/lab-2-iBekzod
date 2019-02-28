@@ -1,0 +1,36 @@
+body {
+  background-color:#595547;
+  padding: 0px 90px;
+}
+
+.titles{
+	color: #9FC2F8;
+	font-family: Verdana;
+	text-align: left;
+}
+
+ .links{
+ 	text-decoration: none;
+    color: #FF4F4C;
+}
+ ol li a:hover {
+	text-decoration: underline;
+    color: #FF4F4C;
+}
+.myDropCap{
+	padding: 3px;
+	font-size: 30px;
+}
+
+.imglinks{
+    border: 2px red;
+}
+.whitetext{
+	color: white;
+	font-family: Arial;
+	text-align: left;
+}
+
+#good{
+	color: #FFF268;
+}
